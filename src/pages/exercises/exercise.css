@@ -4,8 +4,10 @@
     grid-auto-rows: minmax(150px, auto);
 }
 
-#note-display{
-    width: 100%;
+#note-display-canvas{
+    display: flex;
+    width: 600px;
+    height: 300px;
 }
 
 .staff{
